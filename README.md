@@ -49,8 +49,8 @@
 
 <b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://t.me/TG_BOTS_UPDATE'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
-<b>Aɴʏ ᴅᴏᴜʙᴛ ᴄᴏɴᴛᴀᴄᴛ ᴏᴜʀ ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ,<a href='https://t.me/KUSHALHK'>𝐑𝐄𝐏𝐎 𝐎𝐖𝐍𝐄𝐑</a>.</b>
-
+* [![𝐑𝐄𝐏𝐎 𝐎𝐖𝐍𝐄𝐑](https://img.shields.io/static/v1?label=𝐂𝐎𝐍𝐓𝐀𝐂𝐓&message=𝐌𝐄&color=critical)](https://t.me/KUSHALHK)
+  
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
 • /invite - 𝑡𝑜 𝑔𝑒𝑡 𝑡ℎ𝑒 𝑖𝑛𝑣𝑖𝑡𝑒 𝑙𝑖𝑛𝑘 𝑜𝑓 𝑎𝑛𝑦 𝑐ℎ𝑎𝑡 𝑤ℎ𝑖𝑐ℎ 𝑡ℎ𝑒 𝑏𝑜𝑡 𝑖𝑠 𝑎𝑑𝑚𝑖𝑛.
