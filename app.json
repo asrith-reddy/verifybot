@@ -1,5 +1,5 @@
 {
-    "name": "THALAPATHY-FILTER-BOT",
+    "name": "TG_BOTZ",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/1238muj/THALAPATHY-FILTER-BOT",
-    "repository": "https://github.com/1238muj/THALAPATHY-FILTER-BOT",
+    "website": "https://github.com/Kushalhk/TG_BOTZ",
+    "repository": "https://github.com/Kushalhk/TG_BOTZ",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
