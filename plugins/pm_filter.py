@@ -1593,7 +1593,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InputMediaPhoto(random.choice(PICS))
         )
         await query.message.edit_text(
-            text=script.SHORTLINK_TXT,
+            text=script.SHORTLINK_INFO,
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
@@ -1622,7 +1622,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
-    elif query.data == "ytdl":
+    elif query.data == "dics_btn":
         buttons = [[
             InlineKeyboardButton('⇍ ʙᴀᴄᴋ ⇏', callback_data='help')
         ]]
@@ -1643,7 +1643,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InputMediaPhoto(random.choice(PICS))
         )
         await query.message.edit_text(
-            text=script.YTDL_TXT,
+            text=script.DELF_TXT,
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
 )
@@ -1679,7 +1679,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 reply_markup=reply_markup,
                 parse_mode=enums.ParseMode.HTML
             )
-    elif query.data == "json":
+    elif query.data == "rendering_info":
         buttons = [[
             InlineKeyboardButton('⇍ ʙᴀᴄᴋ ⇏', callback_data='help')
         ]]
@@ -1700,7 +1700,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InputMediaPhoto(random.choice(PICS))
         )
         await query.message.edit_text(
-            text=script.JSON_TXT,
+            text=script.RENDERING_TXT,
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
 )
