@@ -5,11 +5,11 @@ from pyrogram import Client, filters
 async def wiki(Client, message):
     lang = message.command[1]
     user_request = " ".join(message.command[2:])
-    if user_request == "":
-        wikipedia.set_lang("kan")
+    if user_request == "eng":
+        wikipedia.set_lang("eng")
         user_request = " ".join(message.command[1:])
     try:
-        if lang == "ml":
+        if lang == "kan":
             wikipedia.set_lang("kan")
 
         result = wikipedia.summary(user_request)
