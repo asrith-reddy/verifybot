@@ -15,7 +15,7 @@ pyrogram>=2.0.30
 #---master---# 
  #Telethroid==0.0.10 
  PyLeaves==1.0.2 
-  
+  Wikipedia
   
  
  #---ytdl----# 
