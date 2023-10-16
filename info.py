@@ -114,7 +114,7 @@ HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
     URL = "https://{}/".format(FQDN)
 else:
-    URL = "http://{}/".format(FQDN)
+    URL = "https://{}/".format(FQDN)
 
 
 
