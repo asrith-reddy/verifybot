@@ -460,5 +460,29 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
  (__) \___/  (____/ \__/ (__) (____)"""
 
 # dont remove my logo 
+    PAID_TXT = """<b>Join a Prime group to get free movie without any ads
+Your time is valuable, Stop watching ads and simply avoid the stupidity
+
+Prime Membership Programs
+
+1 month - 15 Rs
+
+3 Months – 50 RS
+
+6 months - 95 Rs
+
+12 Months - 300 Rs [1 Month Free Trial]
+
+♛ UPI ID »»————> harikushal234@okicici
+
+Would you like to become a Prime Member? Follow these steps:-
+
+✤ Step 1: Go to any payment app like Google PAY, PAYTM,
+✤ Step 2: Pay using UPI ID depending on your plan.
+✤ Step 3 : Send screenshot to our admin or owner Or contact me to send a screenshot.
+
+Any doubts or how to become a prime member? contact me @KUSHALHK @TG_Bots_Supporter</code></b>"""
+
+
 
   
