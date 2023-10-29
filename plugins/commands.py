@@ -352,14 +352,14 @@ async def start(client, message):
         caption=f_caption,
         protect_content=True if pre == 'filep' else False,
         reply_markup=InlineKeyboardMarkup(
-            [
-             [
+                [
+                    [
               InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-             ]
-            ]
+                    ]
+                ]
+            )
         )
-    )
     await asyncio.sleep(300)
     await k.edit("<b>Your message is successfully deleted!!!</b>")
     return
