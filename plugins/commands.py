@@ -360,9 +360,9 @@ async def start(client, message):
             ]
         )
     )
-        await asyncio.sleep(300)
-        await k.edit("<b>Your message is successfully deleted!!!</b>")
-        return
+    await asyncio.sleep(300)
+    await k.edit("<b>Your message is successfully deleted!!!</b>")
+    return
 
     elif data.startswith("short"):
         user = message.from_user.id
