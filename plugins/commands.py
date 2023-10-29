@@ -360,8 +360,6 @@ async def start(client, message):
             ]
         )
     )
-                    
-        
     
     elif data.startswith("short"):
         user = message.from_user.id
