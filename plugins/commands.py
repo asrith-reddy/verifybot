@@ -300,9 +300,9 @@ async def start(client, message):
         await asyncio.sleep(1200)
         await k.edit("<b>Your message is successfully deleted!!!</b>")
         return
-
-   elif data.startswith("all"):
-       files = temp.GETALL.get(file_id)
+        
+    elif data.startswith("all"):
+        files = temp.GETALL.get(file_id)
         if not files:
             return await message.reply('<b><i>No such file exist.</b></i>')
         filesarr = []
@@ -359,7 +359,7 @@ async def start(client, message):
         await k.edit_text("<b>Your All Files/Videos is successfully deleted!!!</b>")
         return    
         
-   elif data.startswith("files"):
+    elif data.startswith("files"):
         user = message.from_user.id
         if temp.SHORT.get(user)==None:
             await message.reply_text(text="<b>Please Search Again in Group</b>")
@@ -487,7 +487,7 @@ async def start(client, message):
     await msg.delete()
     await k.edit_text("<b>Your File/Video is successfully deleted!!!\n\nClick below button to get your deleted file 👇</b>",reply_markup=InlineKeyboardMarkup(btn))
     return   
-
+       
 @Client.on_message(filters.command('channel') & filters.user(ADMINS))
 async def channel_info(bot, message):
            
