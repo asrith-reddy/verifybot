@@ -364,7 +364,7 @@ async def start(client, message):
         await k.edit("<b>Your message is successfully deleted!!!</b>")
         return
 
-    elif data.startswith("short"):
+   elif data.startswith("short"):
         user = message.from_user.id
         chat_id = temp.SHORT.get(user)
         files_ = await get_file_details(file_id)
@@ -384,7 +384,7 @@ async def start(client, message):
         await k.edit("<b>Your message is successfully deleted!!!</b>")
         return
 
-    elif data.startswith("all"):
+   elif data.startswith("all"):
         files = temp.GETALL.get(file_id)
         if not files:
             return await message.reply('<b><i>No such file exist.</b></i>')
@@ -442,7 +442,7 @@ async def start(client, message):
         await k.edit_text("<b>Your All Files/Videos is successfully deleted!!!</b>")
         return    
         
-    elif data.startswith("files"):
+   elif data.startswith("files"):
         user = message.from_user.id
         if temp.SHORT.get(user)==None:
             await message.reply_text(text="<b>Please Search Again in Group</b>")
