@@ -243,7 +243,6 @@ async def start(client, message):
         return await sts.delete()
 
     elif data.split("-", 1)[0] == "verify":
-            elif data.split("-", 1)[0] == "verify":
         userid = data.split("-", 2)[1]
         token = data.split("-", 3)[2]
         fileid = data.split("-", 3)[3]
