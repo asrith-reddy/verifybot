@@ -16,7 +16,7 @@
 <p align="middle">        
 <a href="https://telegram.dog/KUSHALHK"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-purple.svg?logo=telegram"></a>
 
-[![Stars](https://img.shields.io/github/stars/Kushalhk/TG_BOTZT?style=flat-square&color=blue)](https://github.com/Kushalhk/TG_BOTZ/stargazers)
+[![Stars](https://img.shields.io/github/stars/Kushalhk/TG_BOTZT?style=flat-square&color=blue)](https://github.com/Kushalhk/TG_BOTZ)
 [![Forks](https://img.shields.io/github/forks/Kushalhk/TG_BOTZ?style=flat-square&color=red)](https://github.com/Kushalhk/TG_BOTZ/fork)
 [![Size](https://img.shields.io/github/repo-size/Kushalhk/TG_BOTZ?style=flat-square&color=orange)](https://github.com/Kushalhk/TG_BOTZ)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kushalhk/TG_BOTZ)   
