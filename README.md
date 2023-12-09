@@ -23,6 +23,27 @@
 [![Contributors](https://img.shields.io/github/contributors/Kushalhk/TG_BOTZ?style=flat-square&color=pink)](https://github.com/Kushalhk/TG_BOTZ/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Kushalhk/TG_BOTZ/blob/stream-feature/LICENSE)
 
+<b>All this codes are created by our developers 
+
+<a href='https://t.me/SHD_KHAN'>SHAHID KHAN 👨‍💻</a>.</b>
+
+<b><a href='https://t.me/TG_Bots_Supporter'>KISHORE 👨‍💻</a>.</b>
+
+<b><a href='https://t.me/parshucr'>parshucr 👨‍💻</a>.</b>
+
+<b><a href='https://t.me/anonymous7370'>N33VARPV2 👨‍💻</a>.</b>
+
+<b><a href='https://github.com/Mujahith123'>MUJAHITH 👨‍💻</a>.</b>
+
+<b><a href='https://github.com/Joelkb'>JOEL 👨‍💻</a>.</b>
+
+<b><a href='https://github.com/TeamHMT'>TEAMHMT 👨‍💻</a>.</b>
+
+<b><u>
+we are nothing without your support please support us to bring more features in bot
+
+♛┈•༶❤ 𝗟𝗢𝗩𝗘 𝗬𝗢𝗨 𝗔𝗟𝗟 ❤༶•┈♛
+</b></u>
 
 
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
